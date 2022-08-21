@@ -3,9 +3,11 @@
 ## Device info
 Ordered a [USB C ESP32-DevKitC](https://www.aliexpress.com/item/1005004268911484.html) from AliExpress. [Photo](https://ae01.alicdn.com/kf/Sbe50b314ac8c40f3ae04073a03299fb4S/ESP32-Development-Board-TYPE-C-USB-CH340C-WiFi-Bluetooth-Ultra-Low-Power-Dual-Core-ESP32-DevKitC.jpg_Q90.jpg_.webp).  
 Product description:
-    Development board model: ESP32-DevKitC-32
-    Module model: ESP32-WROOM-32
-    Main control chip: ESP32-D0WDQ6-V3 dual-core 32bit MCU integrated WiFi, Bluetooth
+```
+Development board model: ESP32-DevKitC-32
+Module model: ESP32-WROOM-32
+Main control chip: ESP32-D0WDQ6-V3 dual-core 32bit MCU integrated WiFi, Bluetooth
+```
 
 ## Getting started with Thonny
 1) Install Thonny (flatpak version)
