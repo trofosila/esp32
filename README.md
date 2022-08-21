@@ -1,14 +1,14 @@
 # ESP32
 
 ## Getting started with Thonny
-Install Thonny (flatpak version)
+1) Install Thonny (flatpak version)
 ```
 flatpak install flathub org.thonny.Thonny
 ```
 
-Download [MicroPython firmware for ESP32](https://micropython.org/download/esp32/).  
+2) Download [MicroPython firmware for ESP32](https://micropython.org/download/esp32/).  
 
-To flash the image on the board:
+3) To flash the image on the board:
 - connect the board to the computer
 - open Thonny. Go to `Tools` > `Options` > `Interpreter`
 - select the interpreter (`MicroPython(ESP32)`) and the port and click `Install or update firmware`
