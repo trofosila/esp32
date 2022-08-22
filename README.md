@@ -24,7 +24,12 @@ flatpak install flathub org.thonny.Thonny
 - select the interpreter (`MicroPython(ESP32)`) and the port and click `Install or update firmware`
 - on the screen that opens select the port (same as previous screen), click `Browse` to select the .bin downloaded file, for `Flash mode` select `From image file (keep)`, select `Erase flash before installing`, click `Install`
 
-4) Get port
+Get port
 ```
 dmesg | grep ttyUSB
+```
+
+Query port
+```
+esptool.py --port /dev/ttyUSB0 flash_id
 ```
