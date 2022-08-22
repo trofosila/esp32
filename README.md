@@ -33,3 +33,8 @@ Query port
 ```
 esptool.py --port /dev/ttyUSB0 flash_id
 ```
+
+Erase flash
+```
+esptool.py --port /dev/ttyUSB0 erase_flash
+```
