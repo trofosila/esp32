@@ -26,5 +26,5 @@ flatpak install flathub org.thonny.Thonny
 
 4) Get port
 ```
-dmesg | grep ttyUSB0
+dmesg | grep ttyUSB
 ```
