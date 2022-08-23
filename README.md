@@ -3,9 +3,9 @@
 ## Device info
 - AliExpress procuct page: [USB C ESP32-DevKitC](https://www.aliexpress.com/item/1005004268911484.html)
 - [Photo win win](https://ae01.alicdn.com/kf/Sbe50b314ac8c40f3ae04073a03299fb4S/ESP32-Development-Board-TYPE-C-USB-CH340C-WiFi-Bluetooth-Ultra-Low-Power-Dual-Core-ESP32-DevKitC.jpg_Q90.jpg_.webp)
-- [Photo other](https://ae01.alicdn.com/kf/S4771d935337141938995bc6d53fac7b0z.jpg).
-- [Alternate buy](https://www.aliexpress.com/item/1005004491534008.html)  
+- [Alternate product](https://www.aliexpress.com/item/1005004491534008.html), [alternate photo](https://ae01.alicdn.com/kf/S4771d935337141938995bc6d53fac7b0z.jpg)
 - [Pinout & recommended pins](https://www.studiopieters.nl/esp32-pinout/)
+
 ### Product description:
 ```
 Development board model: ESP32-DevKitC-32
