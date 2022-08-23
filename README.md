@@ -27,6 +27,7 @@ flatpak install flathub org.thonny.Thonny
 - select the interpreter (`MicroPython(ESP32)`) and the port and click `Install or update firmware`
 - on the screen that opens select the port (same as previous screen), click `Browse` to select the .bin downloaded file, for `Flash mode` select `From image file (keep)`, select `Erase flash before installing`, click `Install`
 
+## esptool
 Get port
 ```
 dmesg | grep ttyUSB
@@ -41,3 +42,5 @@ Erase flash
 ```
 esptool.py --port /dev/ttyUSB0 erase_flash
 ```
+
+**IMPORTANT:** [backup original flash](https://community.blynk.cc/t/how-to-backup-restore-official-firmware-on-any-espressif-esp8266-esp32/34309).
