@@ -6,7 +6,7 @@
 - [Photo other](https://ae01.alicdn.com/kf/S4771d935337141938995bc6d53fac7b0z.jpg).
 - [Alternate buy](https://www.aliexpress.com/item/1005004491534008.html)  
 - [Pinout & recommended pins](https://www.studiopieters.nl/esp32-pinout/)
-###Product description:
+### Product description:
 ```
 Development board model: ESP32-DevKitC-32
 Module model: ESP32-WROOM-32
