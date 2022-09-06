@@ -44,3 +44,8 @@ esptool.py --port /dev/ttyUSB0 erase_flash
 ```
 
 **IMPORTANT:** [backup original flash](https://community.blynk.cc/t/how-to-backup-restore-official-firmware-on-any-espressif-esp8266-esp32/34309).
+
+
+```
+sudo dnf remove brltty 
+```
