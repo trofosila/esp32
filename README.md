@@ -47,5 +47,6 @@ esptool.py --port /dev/ttyUSB0 erase_flash
 
 
 ```
-sudo dnf remove brltty 
+sudo dnf remove brltty
+sudo usermod -a -G dialout $USER # and reboot
 ```
